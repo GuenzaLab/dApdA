@@ -1,5 +1,5 @@
 # dApdA
-Codes for NAR paper on dApdA
+Codes for NAR paper on dApdA.
 
 The associated data can be found on Zenodo at the following DOI:
 
