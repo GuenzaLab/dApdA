@@ -1,5 +1,9 @@
 # dApdA
-Data and codes for NAR paper on dApdA
+Codes for NAR paper on dApdA
+
+The associated data can be found on Zenodo at the following DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3971255.svg)](https://doi.org/10.5281/zenodo.3971255)
 
 codes: contains the codes used to anlyze the data in the manuscript and SI, except to generate the g(r) and solvent orientation around the phosphorous atom in the dApdA backbone, which were generated using the GROMACS analysis functions gmx rdf and gmx sorient, respectively.
 - codes/avg_struct_statistics.sh: Utility shell script to get the distance, twist, roll, and tilt coordinates for the dApdA average structures in each of the five macrostates from the MSM analysis.
